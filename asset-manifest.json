@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MillionAbles/static/css/main.008c779c.css",
+    "main.js": "/MillionAbles/static/js/main.982c005c.js",
+    "static/media/logo.png": "/MillionAbles/static/media/logo.2c9ace927f9cecfa20d7.png",
+    "static/media/BillionAbles.png": "/MillionAbles/static/media/BillionAbles.6c4fca94fc3b28c7b1e9.png",
+    "index.html": "/MillionAbles/index.html",
+    "main.008c779c.css.map": "/MillionAbles/static/css/main.008c779c.css.map",
+    "main.982c005c.js.map": "/MillionAbles/static/js/main.982c005c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008c779c.css",
+    "static/js/main.982c005c.js"
+  ]
+}
