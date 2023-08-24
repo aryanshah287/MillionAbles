@@ -7,9 +7,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SpeechToText from "./screens/SpeechToText";
 import TextToSpeech from "./screens/TextToSpeech";
 import { Home } from './screens/Home.jsx'
-import { VisuallyImpaired } from "./screens/VisuallyImpaired";
-import { DeafDumb } from "./screens/DeafDumb";
-import { Dyslexia } from "./screens/Dyslexia";
+//import { VisuallyImpaired } from "./screens/VisuallyImpaired";
+//import { DeafDumb } from "./screens/DeafDumb";
+//import { Dyslexia } from "./screens/Dyslexia";
 function App() {
   return (
     <div className="App">
