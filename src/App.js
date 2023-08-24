@@ -1,6 +1,6 @@
 import "./App.css";
-import Login from "./screens/Login";
-import SignUp from "./screens/SignUp";
+//import Login from "./screens/Login";
+//import SignUp from "./screens/SignUp";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 //import ObjectDetection from "./screens/ObjectDetection";
 //import SignDetection from "./screens/SignDetection";
